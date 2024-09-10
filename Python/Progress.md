@@ -1,3 +1,12 @@
 [Главная](../README.md)
 
-TODO
+<hr>
+
+- [ ] UNNX course
+
+<hr> 
+Algo:
+
+- [ ] Stepik course
+- [ ] chekio
+- [ ] Учебник по алгоритмам
