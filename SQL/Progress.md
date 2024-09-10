@@ -2,7 +2,7 @@
 
 <hr>
 
-- [ ] PostgresPro SQL Book 60стр 0/11 видео
+- [ ] PostgresPro SQL Book 130 стр 0/11 видео
 - [ ] PostgresPro DBA 1
 
 - SQL_EX  
